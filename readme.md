@@ -22,6 +22,8 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📝 Introdução](#-introdução)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
+- [Tipos de Intersse ](#Tipos-de-Intersse)
+- [Tipos de Dieta ](#Tipos-de-Dieta )
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
@@ -101,13 +103,38 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 | <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
+## 🏋️ Tipos de Intersse 
 
+A Quarta regra envolve o intersse do cliente para escolher os tipos de exercicio. Aqui estão algumas categorias com exemplos:
+
+| **treino para**           | **Ectomorfo**                                                                                                                          | **Mesomorfo**                                                                                                    |**Endomorfo**
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------  |------------------------------------------------------------------------------------ |
+| Emagrecimento             | focar em treino cardiovascular moderado, combinado com exercícios de resistência para evitar perda de massa muscular.                  | treino intervalado de alta intensidade (HIIT) e resistência para manter a massa muscular enquanto queima gordura | sessões de cardio de longa duração com treinos de força para preservar massa magra. |
+| Ganho de Massa Muscular   | foco em treinos de força com cargas progressivas, com pouco ou nenhum cardio                                                           | treinos de hipertrofia combinados com baixa intensidade de cardio.                                               | força com foco em hipertrofia, controlando o volume de cardio                       |
+| Performance               | ênfase em treinos de resistência e explosão, combinando força e cardio                                                                 | treino de força com cardio intervalado e foco em potência.                                                       | misto de resistência e força, com foco em exercícios explosivos e metabólicos.      |
+| Saúde Geral               | exercícios funcionais, força e um pouco de cardio para saúde cardiovascular.                                                           | abordagem equilibrada entre força, funcional e cardio.                                                           | ênfase em cardio e resistência, mantendo força muscular.                            |
+**Nota:** Com base no biotipo  e o interesse é for formulado os exercicios.
+---
+## 🏋️ Tipos de Dieta 
+
+A Quinta regra envolve o biotipo, o intersse do cliente para orienter a Dieta a ser seguida. Aqui estão algumas categorias com exemplos:
+
+| **Dieta para**            | **Ectomorfo**                                                                                               | **Mesomorfo**                                                                                          |**Endomorfo**
+| ------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |--------------------------------------------------------------------------------------------------------------------------- |
+| Emagrecimento             | alta densidade calórica com ênfase em proteínas e gorduras saudáveis para evitar o catabolismo muscular.    | Controle calórico com moderação em carboidratos e maior ingestão de proteínas                          | redução significativa de carboidratos, aumento do consumo de proteínas e gorduras boas, com controle rigoroso de calorias. |
+| Ganho de Massa Muscular   | aumento de calorias, com ingestão elevada de proteínas e carboidratos complexos.                            | balanço entre proteínas e carboidratos, com ligeiro excedente calórico para sustentar o ganho muscular.| ligeiro excedente calórico com ênfase em proteínas magras e carboidratos de baixo índice glicêmico.                        |
+| Performance               | aumento de carboidratos para sustentar treinos intensos, com proteínas moderadas.                           | ingestão equilibrada de macronutrientes, com ajuste em função das exigências do treino.                | controle de carboidratos e aumento de proteínas e gorduras saudáveis para garantir a performance sem acúmulo de gordura.   |
+| Saúde Geral               | equilíbrio entre proteínas, gorduras e carboidratos, com atenção ao consumo de micronutrientes.             |  dieta balanceada com moderação em todos os macronutrientes e foco em alimentos integrais e naturais.  | controle de carboidratos e maior ingestão de vegetais, proteínas magras e gorduras boas.                                   |
+**Nota:** Com base no biotipo e interesse é determinado o tipo de dieta .
+---
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+3. **Determine o tipo de interesse** Cosultar a seção interesse
+4. **Indica o tipo de Dieta** Consulter Dieta
+5. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+6. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
