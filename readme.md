@@ -150,8 +150,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ## 🎯 Prompt de Resposta Proposto
 
 #Contexto
-Você é um especialista personal trainer e vai me ajudar a montar um treino ideal,
-baseado nas cinco variáveis abaixo 
+Você é um especialista personal trainer e vai me ajudar a montar um treino ideal,baseado nas cinco variáveis abaixo.
 
 {{}biotip}
 {{Periodo}}
@@ -179,39 +178,39 @@ Regra 3: treino
 
 Regra 4:interesse
 Ectomorfo
-Emagrecimento  focar em treino cardiovascular moderado, combinado com exercícios de resistência para evitar perda de massa muscular.
-Ganho de Massa Muscular	 foco em treinos de força com cargas progressivas, com pouco ou nenhum cardio
-Performance	ênfase em treinos de resistência e explosão, combinando força e cardio
-Saúde Geral	 exercícios funcionais, força e um pouco de cardio para saúde cardiovascular.
+- Emagrecimento  focar em treino cardiovascular moderado, combinado com exercícios de resistência para evitar perda de massa muscular.
+- Ganho de Massa Muscular	 foco em treinos de força com cargas progressivas, com pouco ou nenhum cardio.
+- Performance	ênfase em treinos de resistência e explosão, combinando força e cardio.
+-saúde Geral	 exercícios funcionais, força e um pouco de cardio para saúde cardiovascular.
 
 Mesomorfo
-Emagrecimento treino intervalado de alta intensidade (HIIT) e resistência para manter a massa muscular enquanto queima gordura
-Ganho de Massa Muscular	 treinos de hipertrofia combinados com baixa intensidade de cardio.
-Performance  	treino de força com cardio intervalado e foco em potência.
-Saúde Geral	  abordagem equilibrada entre força, funcional e cardio.
+- Emagrecimento treino intervalado de alta intensidade (HIIT) e resistência para manter a massa muscular enquanto queima gordura.
+- Ganho de Massa Muscular	 treinos de hipertrofia combinados com baixa intensidade de cardio.
+- Performance  	treino de força com cardio intervalado e foco em potência.
+- Saúde Geral	  abordagem equilibrada entre força, funcional e cardio.
 Endomorfo
-Emagrecimento  sessões de cardio de longa duração com treinos de força para preservar massa magra.
-Ganho de Massa Muscular  	força com foco em hipertrofia, controlando o volume de cardio
-Performance	 misto de resistência e força, com foco em exercícios explosivos e metabólicos.
-Saúde Geral  ênfase em cardio e resistência, mantendo força muscular.
+- Emagrecimento  sessões de cardio de longa duração com treinos de força para preservar massa magra.
+- Ganho de Massa Muscular  	força com foco em hipertrofia, controlando o volume de cardio.
+- Performance	 misto de resistência e força, com foco em exercícios explosivos e metabólicos.
+- Saúde Geral  ênfase em cardio e resistência, mantendo força muscular.
 
 Regra 5:dieta
 Ectomorfo
-Emagrecimento alta densidade calórica com ênfase em proteínas e gorduras saudáveis para evitar o catabolismo muscular.
-Ganho de Massa Muscular 	aumento de calorias, com ingestão elevada de proteínas e carboidratos complexos.
-Performance	 aumento de carboidratos para sustentar treinos intensos, com proteínas moderadas.
-Saúde Geral 	equilíbrio entre proteínas, gorduras e carboidratos, com atenção ao consumo de micronutrientes.
+- Emagrecimento alta densidade calórica com ênfase em proteínas e gorduras saudáveis para evitar o catabolismo muscular.
+- Ganho de Massa Muscular 	aumento de calorias, com ingestão elevada de proteínas e carboidratos complexos.
+- Performance	 aumento de carboidratos para sustentar treinos intensos, com proteínas moderadas.
+- Saúde Geral 	equilíbrio entre proteínas, gorduras e carboidratos, com atenção ao consumo de micronutrientes.
 Mesomorfo
-Emagrecimento 	Controle calórico com moderação em carboidratos e maior ingestão de proteínas
-Ganho de Massa Muscular 	balanço entre proteínas e carboidratos, com ligeiro excedente calórico para sustentar o ganho muscular.
-Performance 	ingestão equilibrada de macronutrientes, com ajuste em função das exigências do treino.
-Saúde Geral	 dieta balanceada com moderação em todos os macronutrientes e foco em alimentos integrais e naturais.
+- Emagrecimento 	Controle calórico com moderação em carboidratos e maior ingestão de proteínas.
+- Ganho de Massa Muscular 	balanço entre proteínas e carboidratos, com ligeiro excedente calórico para sustentar o ganho muscular.
+- Performance 	ingestão equilibrada de macronutrientes, com ajuste em função das exigências do treino.
+- Saúde Geral	 dieta balanceada com moderação em todos os macronutrientes e foco em alimentos integrais e naturais.
 Endomorfo
-Emagrecimento redução significativa de carboidratos, aumento do consumo de proteínas e gorduras boas, com controle rigoroso de calorias.
-Ganho de Massa Muscular	 ligeiro excedente calórico com ênfase em proteínas magras e carboidratos de baixo índice glicêmico.
-Performance  controle de carboidratos e aumento de proteínas e gorduras saudáveis para garantir a performance sem acúmulo de gordura.
-Saúde Geral	 controle de carboidratos e maior ingestão de vegetais, proteínas magras e gorduras boas.
+- Emagrecimento redução significativa de carboidratos, aumento do consumo de proteínas e gorduras boas, com controle rigoroso de calorias.
+- Ganho de Massa Muscular	 ligeiro excedente calórico com ênfase em proteínas magras e carboidratos de baixo índice glicêmico.
+- Performance  controle de carboidratos e aumento de proteínas e gorduras saudáveis para garantir a performance sem acúmulo de gordura.
+- Saúde Geral	 controle de carboidratos e maior ingestão de vegetais, proteínas magras e gorduras boas.
 
 #Resultado esperado
-Com base nos valores informando na area de variáveis e com os guidelines, crie um treinamento pessoal que corresponda a conbinação das 5 variáveis 
+Com base nos valores informando na area de variáveis e com os guidelines, crie um treinamento pessoal que corresponda a conbinação das 5 variáveis.
 
